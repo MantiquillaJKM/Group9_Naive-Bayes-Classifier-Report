@@ -1,6 +1,6 @@
 # Group9_Naive-Bayes-Classifier-Report
 ## Group 9-Tangalin, Mantiquilla, Palanggalan
-![alt text](image.png)
+![alt text](Screenshots/image.png)
 
 ## Conclusion 
-![alt text](image-1.png)
+![alt text](Screenshots/image-1.png)
